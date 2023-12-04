@@ -1,26 +1,26 @@
 # Basic
-title: Robotkang
+title: Aximof'Log
 subtitle: 欢迎走进我的世界
-description: 科技、生活、音乐、人生
+description: 科技、生活、成长、人生
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Aximof
 # 头像里面的描述
-avatarDesc: 机器人赛事
+avatarDesc: That is life.
 url: "https://robotkang.cc"
 
 # Comment
 comment:
     provider: duoshuo
     duoshuo:
-    short_name: robotkang
+    short_name: Aximof
 
 # Social
 social:
     weibo: 
     weixing:  
-    github: 
+    github: https://github.com/aximu
     # twitter: 
-    mail: 
+    mail: aximuyuemaier@outlook.com
     csdn: 
 
 
